@@ -26,7 +26,7 @@ A section of were is it possible to buy food could me written here, or in a sepa
 
 ## Paris - La Défense (PRS-DEF)
 
-## Lyon (LYS)
+## Lyon (LYN)
 
 ## Rennes (RNS)
 
